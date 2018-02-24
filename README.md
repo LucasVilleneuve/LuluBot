@@ -1,2 +1,5 @@
-# mal_bot_discord
-A discord bot which provides description for MyAnimeList entries.
+# LuluBot
+A discord bot which provides informations for an anime using Kitsu API.
+
+Commands : 
+* _anime <name of anime>
